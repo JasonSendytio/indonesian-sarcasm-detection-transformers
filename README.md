@@ -38,6 +38,5 @@ Both architectures were trained under identical hyperparameter conditions (Batch
 ├── data/              <- Data directory (IndoNLU & IdSarcasm inputs, combined CSVs)
 ├── notebooks/         <- End-to-end preprocessing, fine-tuning, & evaluation notebooks
 ├── assets/            <- Visual plots (Loss curves and confusion matrices)
-├── requirements.txt   <- Python environment dependencies
 ├── LICENSE            <- MIT License
 └── README.md          <- Project documentation and findings
